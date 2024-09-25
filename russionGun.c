@@ -99,6 +99,6 @@ int main() {
     printf("Do you want to play again? (y/n): ");
     scanf(" %c", &playAgain);
     };
-
+    printf("i hope u liked this simple game");
     return 0;
 }
